@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+# Указываем путь к карте сайта для ускорения индексации
+Sitemap: https://evora-rko.github.io/sitemap.xml
+
+# Рекомендация для Яндекса по главному зеркалу
+Host: https://evora-rko.github.io
